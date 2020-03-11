@@ -1,11 +1,3 @@
-# AWS provider version = 2.11.0
-# Install terraform 0.11.0
-# Install tfswitch
-# Run tfswitch 0.11.0
-# Run terraform init
-# Run terraform plan -out plan
-# Run terraform apply
-
 provider "aws" {
   region          = "us-east-1"
   version         = "2.11.0"
